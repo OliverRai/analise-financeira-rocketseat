@@ -1,0 +1,21 @@
+id,data,cliente_id,tipo,valor,descricao,categoria
+1,2026-01-05,CLI001,credito,3500.00,Salário,salario
+2,2026-01-10,CLI002,debito,180.50,Supermercado,compra
+3,2026-01-15,CLI003,credito,12000.00,Bônus,transferencia
+4,2026-01-18,CLI001,debito,450.00,Farmácia,saude
+5,2026-02-02,CLI002,credito,4200.00,Salário,salario
+6,2026-02-06,CLI004,debito,250.00,Restaurante,alimentacao
+7,2026-02-08,CLI003,debito,300.00,Internet,conta
+8,2026-02-12,CLI005,credito,18000.00,Transferência,transferencia
+9,2026-03-01,CLI001,credito,3500.00,Salário,salario
+10,2026-03-04,CLI002,debito,99.90,Streaming,assinatura
+11,2026-03-09,CLI004,debito,600.00,Combustível,transporte
+12,2026-03-13,CLI005,credito,800.00,Freelance,servico
+13,2026-03-20,CLI003,debito,900.00,Viagem,lazer
+14,2026-03-25,CLI001,debito,1200.00,Aluguel,moradia
+15,2026-03-30,CLI002,credito,5000.00,Comissão,bonus
+16,2026-01-10,,credito,2000.00,Cliente vazio,salario
+17,2026-15-01,CLI001,credito,3000.00,Data inválida,salario
+18,2026-02-10,CLI001,pix,500.00,Tipo inválido,outros
+19,2026-02-15,CLI002,debito,-50.00,Valor negativo,outros
+abc,2026-03-10,CLI003,credito,800.00,ID inválido,outros
