@@ -88,9 +88,3 @@ Após a execução do projeto são gerados:
 * `relatorio.json` contendo o resumo das análises;
 * `grafico.png` contendo o gráfico do saldo mensal.
 
-## Autor
-
-Projeto desenvolvido como parte do desafio final do módulo de Python para Análise de Dados.
-
-```
-```
